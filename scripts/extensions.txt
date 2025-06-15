@@ -1,0 +1,16 @@
+blur-my-shell@aunetx
+dash-to-dock@micxgx.gmail.com
+unblank@sun.wxg@gmail.com
+caffeine@patapon.info
+just-perfection-desktop@just-perfection
+rounded-window-corners@fxgn
+user-theme@gnome-shell-extensions.gcampax.github.com
+appindicatorsupport@rgcjonas.gmail.com
+space-bar@luchrioh
+arcmenu@arcmenu.com
+gnome-fuzzy-app-search@gnome-shell-extensions.Czarlie.gitlab.com
+apps-menu@gnome-shell-extensions.gcampax.github.com
+background-logo@fedorahosted.org
+launch-new-instance@gnome-shell-extensions.gcampax.github.com
+places-menu@gnome-shell-extensions.gcampax.github.com
+window-list@gnome-shell-extensions.gcampax.github.com
