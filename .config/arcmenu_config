@@ -1,0 +1,19 @@
+[/]
+dash-to-panel-standalone=false
+highlight-search-result-terms=false
+max-search-results=5
+menu-button-appearance='None'
+menu-layout='Runner'
+multi-monitor=false
+override-menu-theme=false
+position-in-panel='Left'
+prefs-visible-page=0
+runner-menu-height=400
+runner-menu-width=500
+runner-position='Centered'
+runner-search-display-style='Grid'
+runner-show-frequent-apps=false
+search-entry-border-radius=(true, 25)
+show-activities-button=false
+show-search-result-details=false
+update-notifier-project-version=66
