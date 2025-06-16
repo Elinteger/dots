@@ -30,7 +30,7 @@ Set permission to execute.
 
 Run the script.
 
-`./install-packages.fish`
+`./setup.fish`
 
 
 ## Applications and Extensions
